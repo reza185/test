@@ -589,7 +589,7 @@ button {
     }
 
     .hashtags {
-        display: initial;
+        display: none;
     }
 
     .footer {
